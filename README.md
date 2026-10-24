@@ -12,6 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Je refuse d'avoir un éditeur de texte
+Il faut avoir un éditeur de texte
 
 ```
 
